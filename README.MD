@@ -1,6 +1,6 @@
 # Service Lagbe
 
-A web-based home service booking platform where customers can find and book trusted technicians, technicians can manage their jobs, and admins can manage the whole system.
+A web-based home service booking platform where customers can find and book trusted technicians, technicians can manage their jobs, and service bookings are organized in one place.
 
 ## Developer
 
@@ -35,22 +35,12 @@ A web-based home service booking platform where customers can find and book trus
 - View customer details, address, schedule and notes for each job
 - Track pending, confirmed and completed jobs
 
-### Admin
-- Dashboard with an overview of users, services, bookings and messages
-- Manage users and roles
-- Manage services and categories
-- Manage bookings and update booking status
-- Assign technicians to bookings
-- Manage customer reviews
-- Change the homepage hero image
-- Read messages sent through the contact form
-
 ## Booking Flow
 
 1. Customer selects a service and submits a booking
-2. Admin assigns a technician
+2. A technician is assigned to the request
 3. Technician accepts or rejects the job
-4. Admin marks the job as completed
+4. The job is marked as completed after service
 5. Customer leaves a review and the technician rating is updated automatically
 
 ## Setup (XAMPP)
